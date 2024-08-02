@@ -2,4 +2,4 @@ plotly
 streamlit
 pandas
 torch
-umap
+umap-learn
